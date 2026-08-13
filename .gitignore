@@ -41,3 +41,5 @@ Thumbs.db
 # Temporary Files
 *.tmp
 *.log
+
+ChangeFormer/
